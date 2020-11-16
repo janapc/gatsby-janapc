@@ -38,6 +38,7 @@ This project contains those technologies:
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Node](https://nodejs.org/en/)
 - [Graphql](https://graphql.org/)
+- [StyledComponents](https://styled-components.com/)
 
 ***
 
