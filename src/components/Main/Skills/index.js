@@ -15,16 +15,16 @@ import {
 
 import {
   Container,
-  Title,
   SkillsContainer,
   SkillContainer,
   SkillTitle,
 } from "./styles";
+import Title from '../../Title';
 
 const Skills = () => {
   return (
     <Container id="skills">
-      <Title>Habilidades</Title>
+      <Title titleText="Habilidades" />
       <SkillsContainer>
         <SkillContainer>
           <SiAdobexd size={32} color="#FF26BE" title="Adobe XD" />

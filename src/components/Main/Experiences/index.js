@@ -3,7 +3,6 @@ import { useStaticQuery, graphql } from "gatsby";
 
 import {
   CompanyContainer,
-  Title,
   TitleCompany,
   Company,
   Time,
@@ -12,6 +11,8 @@ import {
   ExperiencesContainer,
   Container
 } from "./styles";
+import Title from '../../Title';
+
 
 const Experiences = () => {
   const data = useStaticQuery(graphql`
@@ -28,7 +29,7 @@ const Experiences = () => {
   `);
   return (
     <Container id="experiences">
-      <Title> Experiências </Title>
+      <Title titleText="Experiências" />
       <ExperiencesContainer>
         {data.contentsJson.experiences.map((item, index) => (
           <CompanyContainer key={index}>

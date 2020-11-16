@@ -7,22 +7,6 @@ export const Container = styled.section`
   width: 80%;
 `;
 
-export const Title = styled.h1`
-  font-size: 3.4rem;
-  line-height: 4.4rem;
-  color: ${props => props.theme.title};
-  font-family: "Anonymous Pro", monospace;
-  font-weight: 700;
-  border-right: 2px solid;
-  margin-top: 3.2rem;
-  align-self: center;
-  width: fit-content;
-  
-  @media(min-width: 700px) {
-    align-self: start;
-  }
-`;
-
 export const SubTitle = styled.h2`
   font-size: 2.2rem;
   line-height: 3.2rem;

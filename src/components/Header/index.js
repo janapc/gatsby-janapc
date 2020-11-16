@@ -63,7 +63,7 @@ const Header = () => {
       }
     }
   `);
-  console.log(data)
+
   return (
     <Container>
       <Info>

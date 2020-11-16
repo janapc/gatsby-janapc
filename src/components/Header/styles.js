@@ -100,7 +100,7 @@ export const BtnMenu = styled.button`
 `;
 
 export const ModalMenu = styled.nav`
-  position: absolute;
+  position: fixed;
   width: 100%;
   height: 100%;
   top: -150vh;

@@ -3,7 +3,6 @@ import { useStaticQuery, graphql } from "gatsby";
 
 import {
   Container,
-  Title,
   SubTitle,
   Card,
   Time,
@@ -12,6 +11,7 @@ import {
   CourseContainer,
   CourseText,
 } from "./styles";
+import Title from '../../Title';
 
 const Education = () => {
   const data = useStaticQuery(graphql`
@@ -30,7 +30,7 @@ const Education = () => {
   `);
   return (
     <Container id="education">
-      <Title>Educação:</Title>
+      <Title titleText="Educação" />
       <>
         <SubTitle>Educação:</SubTitle>
         <Card>

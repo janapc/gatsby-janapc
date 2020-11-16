@@ -1,7 +1,8 @@
 import React from "react";
 import { useStaticQuery, graphql } from "gatsby";
 
-import { Container, ContainerText, Title, Text } from "./styles";
+import { Container, ContainerText, Text } from "./styles";
+import Title from '../../Title';
 
 const About = () => {
   const data = useStaticQuery(graphql`
@@ -14,7 +15,7 @@ const About = () => {
 
   return (
     <Container id="about">
-      <Title> Sobre Mim </Title>
+      <Title titleText="Sobre Mim" />
       <ContainerText>
         {data.contentsJson.aboutMe.split("\n").map((item, index) => (
           <div key={index}>
