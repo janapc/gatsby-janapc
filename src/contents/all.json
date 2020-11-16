@@ -1,0 +1,45 @@
+{
+  "experiences": [
+    {
+      "company": "Kiina.ai",
+      "time": " 2019 - atualmente",
+      "occupation": "Desenvolvedora de Software",
+      "description": "Minha responsabilidade é desenvolver o backend de integração com a IA e a implementação com algumas API’s. Isso inclui utilizar javascript como linguagem principal e toda a estrutura é feita utilizando serverless e funções pub/sub, Testes Unitários.Também criei alguns pacotes npm, uma CLI,  algumas api rest, interfaces utilizando:  html, css, templates engines,  js, reactjs."
+    }
+  ],
+  "aboutMe": "Olá 👋, sou Janaina Pedrina, sou formada em Análise e Desenvolvimento de Sistemas pela Unisepe.\nDesde da adolescência sempre gostei desse mundo da programação, comecei no mobile com Phonegap, Cordova junto com Ionic, ai tive que aprender Angular 1 mesmo não entendendo muito como funciona toda estrutura meu primeiro HELLO WORLD saiu, quando vi isso na tela do emulador Android fiquei fascinada, depois aprendi PHP para poder programar para web utilizando MYSQL como banco de dados, aprendi um pouco de Ruby e Java.\nMas no final o Javascript ganho meu ❤️ e com ele veio Typescript que deixa tudo melhor😊.Adoro como a comunidade é imensa e todo mundo compartilha seus conhecimentos 🚀.Sempre tento aprender e compartilhar tudo que eu aprendo com outros devs. Sempre busco novos desafios, acho que isso me fortalece como desenvolvedora💥.\nCrio meus próprios projetos desde do backend ate o frontend e ver tudo isso renderizando seja no browser ou no mobile me da uma satisfação tão grande, posso dizer que sou uma fullstack developer👩‍💻. \nTenho alguns hobbies nas horas vagas como: tentar jogar 🎮, as vezes toco violão🎸 e leio livros 📚.",
+  "user": {
+    "name": "Janaina Pedrina",
+    "occupation": "Desenvolvedora de Software",
+    "age": 22,
+    "email": "jana-costa@outlook.com",
+    "address": "Rua Dr. Pierre Geisweiler, 207 - Cajati/Sp",
+    "phoneNumber": "(13)99794-8066",
+    "twitter": "https://twitter.com/_janapc_",
+    "linkedin": "https://www.linkedin.com/in/janaina-pedrina/",
+    "dribbble": "https://dribbble.com/Janapc",
+    "github": "https://github.com/janapc"
+  },
+  "education": {
+    "time": "2016 - 2018",
+    "name": "Tecnólogo em Analise e Desenvolvimento de Sistemas -  Faculdades Integradas do Vale do Ribeira."
+  },
+  "courses": [
+    {
+      "name": "Entendendo TypeScript - Udemy",
+      "link": "https://www.udemy.com/certificate/UC-6479afee-90b5-4310-a74a-61525855c147/"
+    },
+    {
+      "name": "Curso completo de Desenvolvimento Web - Crie 6 projetos - Udemy",
+      "link": "https://www.udemy.com/certificate/UC-D7DRQCUZ/"
+    },
+    {
+      "name": "GraphQL with React: The Complete Developers Guide - Udemy",
+      "link": "https://www.udemy.com/certificate/UC-VIFYWZNF/"
+    },
+    {
+      "name": "Curso Completo do Desenvolvedor NodeJS e MongoDB - Udemy",
+      "link": "https://www.udemy.com/certificate/UC-3EYTVDA1/"
+    }
+  ]
+}
