@@ -14,8 +14,7 @@
     <img alt="Repo size" src="https://img.shields.io/github/repo-size/janapc/gatsby-janapc"/>
 </p>
 
-<p>This is my portfolio, it was constructed using Gatsby, graphql, and reactjs. My objective was to create a site dynamic, responsive, and fast loading.</p>
-
+<p>This is my portfolio, it was constructed using Gatsby, graphql, and reactjs. My objective was to create a site dynamic, responsive, and fast loading. I made the deployment by netlify, take a look at the site here: <a href="https://sad-cray-80488a.netlify.app/">Janapc 🚀</a> </p>
 <p align="center">
   <a href="#arrowdown-installations">Installations</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#boom-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
