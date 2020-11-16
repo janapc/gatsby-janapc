@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img alt="Janapc logo" src="../../projects-hub/gatsby-janapc/src/assets/icon.png" width="60" />
+    <img alt="Janapc logo" src="./src/assets/Icon.png" width="60" />
 </p>
 <h1 align="center">
   Portfolio Janapc
