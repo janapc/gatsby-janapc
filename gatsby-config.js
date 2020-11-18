@@ -40,23 +40,26 @@ module.exports = {
         showSpinner: false,
       },
     },
+    
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-webfonts`,
       options: {
-        fonts: [
-          {
-            family: `Roboto Mono`,
-            variants: [`300`, `400`, `700`],
-          },
-          {
-            family: `Roboto`,
-            variants: [`300`, `400`, `700`],
-          },
-          {
-            family: `Anonymous Pro`,
-            variants: [`400`, `700`],
-          },
-        ],
+        fonts: {
+          google: [
+            {
+              family: `Roboto Mono`,
+              variants: [`300`, `400`, `700`],
+            },
+            {
+              family: `Roboto`,
+              variants: [`300`, `400`, `700`],
+            },
+            {
+              family: `Anonymous Pro`,
+              variants: [`400`, `700`],
+            },
+          ],
+        },
       },
     },
     {
@@ -78,11 +81,6 @@ module.exports = {
     `gatsby-plugin-webpack-bundle-analyser-v2`,
     {
       resolve: "gatsby-plugin-webpack-bundle-analyser-v2",
-      options: {
-        analyzerMode: "server",
-        analyzerPort: "8888",
-        defaultSizes: "gzip"
-      },
     },
     { resolve: `gatsby-source-filesystem`, options: { path: `./src/assets` } },
     `gatsby-plugin-preact`,
