@@ -2,6 +2,7 @@
 <p align="center">
     <img alt="Janapc logo" src="./src/assets/Icon.png" width="60" />
 </p>
+
 <h1 align="center">
   Portfolio Janapc
 </h1>
@@ -11,7 +12,8 @@
   <img alt="License" src="https://img.shields.io/github/license/janapc/gatsby-janapc"/>
   <img alt="Language count" src="https://img.shields.io/github/languages/count/janapc/gatsby-janapc"/>
   <img alt="Language top" src="https://img.shields.io/github/languages/top/janapc/gatsby-janapc"/>
-    <img alt="Repo size" src="https://img.shields.io/github/repo-size/janapc/gatsby-janapc"/>
+  <img alt="Repo size" src="https://img.shields.io/github/repo-size/janapc/gatsby-janapc"/>
+  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/151ad7c6-896c-4791-a297-4be5040c8ece/deploy-status"/>
 </p>
 
 <p>This is my portfolio, it was constructed using Gatsby, graphql, and reactjs. My objective was to create a site dynamic, responsive, and fast loading. I made the deployment by netlify, take a look at the site here: <a href="https://janapc.netlify.app/">Janapc 🚀</a> </p>
