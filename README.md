@@ -38,7 +38,6 @@ This project contains those technologies:
 
 - [ReactJS](https://reactjs.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
-- [Node](https://nodejs.org/en/)
 - [Graphql](https://graphql.org/)
 - [StyledComponents](https://styled-components.com/)
 
