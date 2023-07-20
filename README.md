@@ -16,7 +16,7 @@
   <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/151ad7c6-896c-4791-a297-4be5040c8ece/deploy-status"/>
 </p>
 
-<p>This is my portfolio, it was constructed using Gatsby, graphql, and reactjs. My objective was to create a site dynamic, responsive, and fast loading. I made the deployment by netlify, take a look at the site here: <a href="https://janapc.netlify.app/">Janapc 🚀</a> </p>
+<p>This is my portfolio, it was constructed using Gatsby, graphql, and reactjs. My objective was to create a site dynamic, responsive, and fast loading.
 <p align="center">
   <a href="#arrowdown-installations">Installations</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#boom-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
